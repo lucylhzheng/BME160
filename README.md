@@ -1,5 +1,4 @@
-# BME160
-Programming in Life Science
+# BME160 (Programming in Life Science)
 
 
 # Lab 2
