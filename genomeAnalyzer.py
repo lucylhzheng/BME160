@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 # Name: Lucy Zheng (lzheng20)
-# Group Members: Christopher Tran (chlotran)
+
 '''
 This program takes the given data that is altered from FastAreader and calls the
 specific classes and methods within SequenceAnalysis module for proper formatting
