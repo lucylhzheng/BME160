@@ -1,6 +1,5 @@
 # !/usr/bin/env python3
 # Name: Lucy Zheng (lzheng20)
-# Group Members: Christopher Tran (chlotran)
 '''
 SequenceAnalysis is a module that contains three classes which are NucParams, FastAreader, and ProteinParams
 which can be called from the program titled GenomeAnalyzer. All the calculations of amino acids, nucleotides,

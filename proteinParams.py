@@ -1,6 +1,5 @@
 # !/usr/bin/env python3
 # Name: Lucy Zheng (lzheng20)
-# Group Members: Christopher Tran (chlotran)
 '''
 Takes in a string of amino acids and calculates the physical-chemical properties related to the given protein sequence.
 

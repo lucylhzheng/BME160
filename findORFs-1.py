@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # Name: Lucy Zheng (lzheng20)
-# Group Members: Christopher Tran (Chlotran)
-
 
 ########################################################################
 # Design:

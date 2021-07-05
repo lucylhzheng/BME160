@@ -1,6 +1,5 @@
 #!/usr/bin/env python3 
 # Name: Lucy Zheng (lzheng20)
-# Group Members: Christopher Tran (chlotran)
 
 '''
 Read a DNA string from user input and return a collapsed substring of embedded Ns to: {count}.

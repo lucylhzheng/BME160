@@ -1,7 +1,6 @@
 #!/usr/bin/env python3 
 # Name: Lucy Zheng (lzheng20)
 
-
 '''
 Seqname of FASTQ file is inserted and each section of the information is parsed to generate
 individual fields of outputs

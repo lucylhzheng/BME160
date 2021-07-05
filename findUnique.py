@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 #Name: Lucy Zheng (lzheng20)
-#Group Members: Christopher Tran (chlotran)
 
 '''
 The findUnique module takes in fasta file of tRNA sequences and generates the essential sets for each tRNA.
